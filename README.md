@@ -1,3 +1,19 @@
+Private Repository Link: https://github.com/programming-hero-web-course-4/independent-service-provider-nazibhaque137
+
+Live Site Link: https://independent-service-prov-7e413.web.app/login
+
+Things done in this React project: 
+
+* Created my own Photography site called NH Photography that has a Banner, Services and Testimonial in Home page
+* Created a Blogs page where specific questions are answered
+* Created a About page which represents what the site is about
+* Created a protected route called Checkout which users can't view without logging in
+* Created a Register page that supports Email-Password and via Google registration
+* Created a Login page where existing users can login to view the protected options
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
